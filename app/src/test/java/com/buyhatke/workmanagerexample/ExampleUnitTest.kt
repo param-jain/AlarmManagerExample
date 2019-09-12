@@ -1,4 +1,4 @@
-package com.buyhatke.alarmmanagerexample
+package com.buyhatke.workmanagerexample
 
 import org.junit.Test
 
